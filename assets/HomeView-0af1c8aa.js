@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-467fd309.js";const s={},c={class:"text-center"};function n(r,a,_,p,i,f){return t(),o("h2",c,"This is Home page!")}const d=e(s,[["render",n]]);export{d as default};
